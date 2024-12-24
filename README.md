@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EhsanWebDev
 - 👀 I’m interested in JavaScript/Frontend.
 - 🌱 I’m currently learning React Native.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
      Mail: ehsanWebDev47@gmail.com
      
